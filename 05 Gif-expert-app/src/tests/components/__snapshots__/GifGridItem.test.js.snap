@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing in <GifGridItem /> It must have a paragraph with a title 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Un titulo"
+    src="https://localhost:8080"
+  />
+  <p>
+    Un titulo
+  </p>
+</div>
+`;
+
+exports[`Testing in <GifGridItem /> should show correctly the component with props 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Un titulo"
+    src="https://localhost:8080"
+  />
+  <p>
+    Un titulo
+  </p>
+</div>
+`;
